@@ -1,2 +1,2 @@
 1.7.1
-https://github.com/29frankoazo-source/StumbleDark-Updates/releases/download/v1.7.0/StumbleDark.dll
+https://github.com/29frankoazo-source/StumbleDark-Updates/releases/download/v1.7.1/StumbleDark.dll
